@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digitek-examen/static/css/main.4ab2e6cc.css",
+    "main.js": "/digitek-examen/static/js/main.b45dc9c9.js",
+    "static/js/787.73de0d23.chunk.js": "/digitek-examen/static/js/787.73de0d23.chunk.js",
+    "static/media/notebook.png": "/digitek-examen/static/media/notebook.362dcb042d9e6940c28f.png",
+    "index.html": "/digitek-examen/index.html",
+    "main.4ab2e6cc.css.map": "/digitek-examen/static/css/main.4ab2e6cc.css.map",
+    "main.b45dc9c9.js.map": "/digitek-examen/static/js/main.b45dc9c9.js.map",
+    "787.73de0d23.chunk.js.map": "/digitek-examen/static/js/787.73de0d23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab2e6cc.css",
+    "static/js/main.b45dc9c9.js"
+  ]
+}
